@@ -156,7 +156,7 @@ CSS          4 mins         ░░░░░░░░░░░░░░░░░�
 - 👯 **İş birliği yapmak istediğim:** Open Source Projects
 - 🤔 **Yardım aradığım:** Advanced DevOps Practices
 - 💬 **Bana şu konularda soru sorabilirsiniz:** TypeScript, JavaScript, Python, Web Development
-- 📫 **Bana nasıl ulaşabilirsiniz:** [email@example.com](mailto:cumakaradash@gmail.com)
+- 📫 **Bana nasıl ulaşabilirsiniz:** [cumakaradash@gmail.com](mailto:cumakaradash@gmail.com)
 - ⚡ **Eğlenceli gerçek:** Code yazarken kahve tüketimim 300% artıyor ☕
 
 ---
