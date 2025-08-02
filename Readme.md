@@ -19,20 +19,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cumakaradash&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=A0A9CB&dates=A0A9CB" alt="GitHub Streak"/>
 </div>
 
-## 📊 Kapsamlı Geliştirici Metrikleri
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/cumakaradash?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FIstanbul" />
-</div>
-
 ## 🎯 Aktivite Grafiği ve Analiz
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cumakaradash&theme=tokyo-night&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
-## 📅 Dinamik Katkı Haritası
-<div align="center">
-  <img src="https://github.com/cumakaradash/cumakaradash/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ## 💻 En Çok Kullanılan Teknolojiler
@@ -54,55 +43,27 @@
 ## ⏰ Kodlama Aktivite Takibi
 <div align="center">
   
-[![wakatime](https://wakatime.com/badge/user/WAKATIME_USER_ID.svg)](https://wakatime.com/@WAKATIME_USER_ID)
-
 <!--START_SECTION:waka-->
 **🐱 Kişisel Kodlama Metrikleri** 
 
-> 📦 GitHub'da 322.3 kB kod yazdım 
+> 📦 GitHub'da 32.3 Gb kod yazdım 
  > 
 > 🏆 2024 yılında 1,234 contributions yaptım
  > 
-> 💼 İş arıyorum: Evet
  > 
-> 📜 12 Public Repository 
+> 📜 29 Public Repository 
  > 
-> 🔑 15 Private Repository 
+> 🔑 43 Private Repository 
  > 
  **En çok kullandığım diller** 
 ```text
-JavaScript   15 hrs 41 mins  ████████████████████▓░░░░   82.56 % 
-TypeScript   2 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.56 % 
+JavaScript   2 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
 JSON         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 HTML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 CSS          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 <!--END_SECTION:waka-->
-
-</div>
-
-## 🎵 Spotify Müzik Etkinliği
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=SPOTIFY_USER_ID&count=5&unique=true" alt="Spotify recently played"/>
-</div>
-
-## 🎨 3D Katkı Profili Görselleştirmesi
-<div align="center">
-  <img src="https://github.com/cumakaradash/cumakaradash/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution"/>
-</div>
-
-## 📈 İleri Seviye Geliştirici Analitiği
-
-<div align="center">
-
-### 🌟 Repository Yıldız Gelişimi
-<img src="https://starchart.cc/cumakaradash/REPOSITORY_NAME.svg" alt="Stargazers over time" width="600"/>
-
-### 🔥 Commit Aktivite Haritası
-<img src="https://ghchart.rshah.org/5BCDEC/cumakaradash" alt="GitHub Contributions Chart" width="600"/>
-
-### 📊 Yıllık Katkı Dağılımı
-<img src="https://github-readme-stats.vercel.app/api?username=cumakaradash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=📊 GitHub İstatistikleri" alt="GitHub Stats" width="600"/>
 
 </div>
 
@@ -119,12 +80,6 @@ CSS          4 mins          ░░░░░░░░░░░░░░░░░
   </tr>
 </table>
 
-## 📊 Repository Analytics
-
-### Most Starred Repositories
-![Most Starred](https://github-readme-stats.vercel.app/api/pin/?username=cumakaradash&repo=REPO_ADI&theme=tokyonight)
-![Most Starred](https://github-readme-stats.vercel.app/api/pin/?username=cumakaradash&repo=REPO_ADI2&theme=tokyonight)
-
 ## 🌟 Dynamic README Components
 
 ### Random Developer Quote
@@ -136,8 +91,6 @@ CSS          4 mins          ░░░░░░░░░░░░░░░░░
 ## 📱 Social Media Integration
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PROFIL_ADINIZ)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cumakaradash)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cumakaradash)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/KANAL_ADINIZ)
 
 ## 🛠️ Tech Stack Badges
@@ -194,18 +147,16 @@ CSS          4 mins         ░░░░░░░░░░░░░░░░░�
 ### 📈 Kişisel Geliştirici Skorları
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cumakaradash&theme=github_dark&utcOffset=3" alt="Productive Time" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cumakaradash&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="WakaTime Stats" width="400"/>
 </div>
 
 ---
 
 ### 🏆 Current Status
-- 🔭 **Şu anda üzerinde çalıştığım:** [Proje Adı](https://github.com/cumakaradash/PROJE)
 - 🌱 **Öğrenmekte olduğum:** Machine Learning, Cloud Architecture
 - 👯 **İş birliği yapmak istediğim:** Open Source Projects
 - 🤔 **Yardım aradığım:** Advanced DevOps Practices
-- 💬 **Bana şu konularda soru sorabilirsiniz:** JavaScript, Python, Web Development
-- 📫 **Bana nasıl ulaşabilirsiniz:** [email@example.com](mailto:email@example.com)
+- 💬 **Bana şu konularda soru sorabilirsiniz:** TypeScript, JavaScript, Python, Web Development
+- 📫 **Bana nasıl ulaşabilirsiniz:** [email@example.com](mailto:cumakaradash@gmail.com)
 - ⚡ **Eğlenceli gerçek:** Code yazarken kahve tüketimim 300% artıyor ☕
 
 ---
@@ -215,5 +166,3 @@ CSS          4 mins         ░░░░░░░░░░░░░░░░░�
 </div>
 
 ---
-
-*Bu README otomatik olarak güncellenir. Son güncelleme: <!-- DATETIME:START -->**2024-01-01**<!-- DATETIME:END -->*
